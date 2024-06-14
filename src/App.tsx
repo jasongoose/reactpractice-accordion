@@ -1,10 +1,5 @@
-import './App.css'
-
 function App() {
- 
-  return (
-   <div></div>
-  )
+  return <div className="bg-green-500 h-screen"></div>;
 }
 
-export default App
+export default App;
